@@ -101,6 +101,7 @@ polygon = PackedVector2Array(-587, -7, 1408, -15, 1403, 107, -578, 106)
 polygon = PackedVector2Array(-587, -7, 1408, -15, 1403, 107, -578, 106)
 
 [node name="RichTextLabel" type="RichTextLabel" parent="."]
+visible = false
 offset_left = 37.0
 offset_top = 20.0
 offset_right = 465.0
